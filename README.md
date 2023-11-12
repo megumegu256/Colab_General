@@ -1,1 +1,1 @@
-# Colab_General
+Google Colaboratoryで作成した、階差数列から一般項を導き出すプログラムです。
